@@ -43,7 +43,7 @@
 
 //Countdown for ticket purchase
 document.addEventListener("DOMContentLoaded", function() {
-  const countdownDate = new Date('2024-12-31T23:59:59').getTime(); // Change the date to your desired deadline
+  const countdownDate = new Date('2025-06-31T23:59:59').getTime(); // Change the date to your desired deadline
 
   const timerElement = document.getElementById('timer');
 
